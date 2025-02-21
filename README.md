@@ -31,8 +31,8 @@ JavaScript: For adding interactivity (e.g., scroll and hover effects).
 How to Use
 Clone the repository:
 
-bash
 git clone https://github.com/alan-srivastava/PRODIGY_WD_01.git
+
 Open the index.html file in your browser to view the project.
 
 Interact with the navigation menu by scrolling or hovering over the menu items.
