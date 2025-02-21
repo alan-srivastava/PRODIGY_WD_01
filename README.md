@@ -38,7 +38,7 @@ Open the index.html file in your browser to view the project.
 Interact with the navigation menu by scrolling or hovering over the menu items.
 
 Project Structure
-Copy
+
 PRODIGY_WD_01/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS file for styling
