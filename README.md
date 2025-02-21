@@ -40,10 +40,15 @@ Interact with the navigation menu by scrolling or hovering over the menu items.
 Project Structure
 
 PRODIGY_WD_01/
+
 ├── index.html          # Main HTML file
+
 ├── styles.css          # CSS file for styling
+
 ├── script.js           # JavaScript file for interactivity
+
 └── README.md           # Project documentation
+
 Live Demo
 You can view the live demo of this project here (https://alan-srivastava.github.io/PRODIGY_WD_01/).
 
