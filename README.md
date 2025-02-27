@@ -1,3 +1,4 @@
+![Screenshot 2025-02-27 225904](https://github.com/user-attachments/assets/5bd1cd0c-59ba-4151-ac1b-320dd863b8ab)
 # PRODIGY_WD_01
 AN INTERACTIVE NAVIGATION MENU
 
